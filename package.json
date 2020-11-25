@@ -1,0 +1,17 @@
+{
+  "name": "forestry-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node local.js"
+  },
+  "keywords": [],
+  "author": "Fionn Casey",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.16.1",
+    "nodemailer": "^6.4.16",
+    "pdf-lib": "^1.12.0"
+  }
+}
